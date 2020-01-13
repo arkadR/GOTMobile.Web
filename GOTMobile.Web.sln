@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GOTMobile2.Web", "GOTMobile2.Web.csproj", "{5FBD2420-190E-4BDC-BDAC-EEC12FC5674F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GOTMobile.Web", "GOTMobile.Web.csproj", "{91E15AE3-2A1D-4DEA-963E-7EF9E2CD3DE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5FBD2420-190E-4BDC-BDAC-EEC12FC5674F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5FBD2420-190E-4BDC-BDAC-EEC12FC5674F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5FBD2420-190E-4BDC-BDAC-EEC12FC5674F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5FBD2420-190E-4BDC-BDAC-EEC12FC5674F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E15AE3-2A1D-4DEA-963E-7EF9E2CD3DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E15AE3-2A1D-4DEA-963E-7EF9E2CD3DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E15AE3-2A1D-4DEA-963E-7EF9E2CD3DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E15AE3-2A1D-4DEA-963E-7EF9E2CD3DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2B7862D9-765D-4481-9250-D02C75FE9748}
+		SolutionGuid = {BF2DC636-B7C1-4EB8-A0C7-1A02D415CE69}
 	EndGlobalSection
 EndGlobal

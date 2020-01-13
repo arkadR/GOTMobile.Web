@@ -1,6 +1,6 @@
 using System;
 
-namespace GOTMobile2.Web
+namespace GOTMobile.Web
 {
     public class WeatherForecast
     {
