@@ -1,0 +1,7 @@
+.MuiTableRow-root.Mui-selected {
+  background-color: #3f51b5 !important;
+}
+
+.MuiTableRow-root.Mui-selected > .MuiTableCell-body {
+  color: #ffffff !important;
+}
